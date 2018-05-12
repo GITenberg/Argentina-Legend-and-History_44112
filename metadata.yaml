@@ -1,0 +1,124 @@
+_repo: Argentina-Legend-and-History_44112
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44112-h/images/cover_lg.jpg
+creator:
+  authors:
+  - agent_name: Gutiérrez, Juan María
+    alias: Gutierrez, Juan Maria
+    birthdate: 1809
+    deathdate: 1878
+    gutenberg_agent_id: '42583'
+    url: http://www.gutenberg.org/2009/agents/42583
+  - agent_name: Goyena, Pedro
+    birthdate: 1843
+    deathdate: 1892
+    gutenberg_agent_id: '42584'
+    url: http://www.gutenberg.org/2009/agents/42584
+  - agent_name: Gorriti, Manuela
+    gutenberg_agent_id: '42580'
+    url: http://www.gutenberg.org/2009/agents/42580
+  - agent_name: López, Vicente Fidel
+    aliases:
+    - Lopez, Vicente Fidel
+    - López, Vicente F. (Vicente Fidel)
+    birthdate: 1815
+    deathdate: 1903
+    gutenberg_agent_id: '42577'
+    url: http://www.gutenberg.org/2009/agents/42577
+  - agent_name: Sastre, Marcos
+    birthdate: 1808
+    deathdate: 1887
+    gutenberg_agent_id: '42582'
+    url: http://www.gutenberg.org/2009/agents/42582
+  - agent_name: López y Planes, Vicente
+    aliases:
+    - Lopez y Planes, Vicente
+    - López, Vicente
+    birthdate: 1784
+    deathdate: 1856
+    gutenberg_agent_id: '42576'
+    url: http://www.gutenberg.org/2009/agents/42576
+  - agent_name: López, Lucio Vicente
+    aliases:
+    - López, Lucio V.
+    - Lopez, Lucio Vicente
+    birthdate: 1848
+    deathdate: 1894
+    gutenberg_agent_id: '35431'
+    url: http://www.gutenberg.org/2009/agents/35431
+    wikipedia: http://es.wikipedia.org/wiki/Lucio_Vicente_L%C3%B3pez
+  - agent_name: Bunge, Carlos O. (Carlos Octavio)
+    aliases:
+    - Bunge, C. O. (Carlos Octavio)
+    - Bunge, Carlos Octavio
+    birthdate: 1875
+    deathdate: 1918
+    gutenberg_agent_id: '32229'
+    url: http://www.gutenberg.org/2009/agents/32229
+  - agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Blasco Ibanez, Vicente
+    - Ibáñez, Vicente Blasco
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
+  - agent_name: Mitre, Bartolomé
+    alias: Mitre, Bartolome
+    birthdate: 1821
+    deathdate: 1906
+    gutenberg_agent_id: '37653'
+    url: http://www.gutenberg.org/2009/agents/37653
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Bartolom%C3%A9_Mitre
+    - http://es.wikipedia.org/wiki/Bartolom%C3%A9_Mitre
+  - agent_name: Sarmiento, Domingo Faustino
+    aliases:
+    - Sarmiento, D. F. (Domingo Faustino)
+    - Sarmiento, Domingo F. (Domingo Faustino)
+    birthdate: 1811
+    deathdate: 1888
+    gutenberg_agent_id: '36297'
+    url: http://www.gutenberg.org/2009/agents/36297
+    wikipedia: http://en.wikipedia.org/wiki/Domingo_Faustino_Sarmiento
+  - agent_name: Drago, Luis María
+    alias: Drago, Luis Maria
+    birthdate: 1859
+    deathdate: 1921
+    gutenberg_agent_id: '42585'
+    url: http://www.gutenberg.org/2009/agents/42585
+  - agent_name: Lacasa, Pedro
+    birthdate: 1810
+    deathdate: 1869
+    gutenberg_agent_id: '42581'
+    url: http://www.gutenberg.org/2009/agents/42581
+  editors:
+  - agent_name: Laguardia, Cincinato G. B.
+    gutenberg_agent_id: '42575'
+    url: http://www.gutenberg.org/2009/agents/42575
+  - agent_name: Laguardia, Garibaldi G. B.
+    gutenberg_agent_id: '42574'
+    url: http://www.gutenberg.org/2009/agents/42574
+description: ''
+gutenberg_issued: '2013-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44112'
+  lccn: '19015786'
+language:
+- es
+- en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentina -- History'
+- !lcc 'PC'
+- !lcc 'F2801'
+- !lcsh 'Spanish language -- Readers'
+- !lcsh 'Argentina'
+title: Argentina, Legend and History
+url: http://www.gutenberg.org/ebooks/44112
